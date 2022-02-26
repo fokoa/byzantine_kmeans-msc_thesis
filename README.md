@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 # Fault resilient K-means byzantines
 
@@ -40,9 +38,3 @@ if you use this thesis, please cite:
 	year = {2021}
 }
 ```
-
-=======
-# byzantine_kmeans-msc_thesis
-About my master's thesis in Computer Science
-$\epsilon$
->>>>>>> 468cff3c09301822db5b144b69c3593001268971
