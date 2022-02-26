@@ -1,12 +1,12 @@
 
 # Fault resilient K-means byzantines
 
-This is my master's thesis and master's project's done in Department of Computer Science in University of Yaoundé I. Supervised by [MELATAGIA YONTA Paulin](https://www.linkedin.com/in/paulin-melatagia-a27840115).
+This is my Masters thesis and project done in the Department of Computer Science in the University of Yaoundé I. Supervised by [MELATAGIA YONTA Paulin](https://www.linkedin.com/in/paulin-melatagia-a27840115).
 
 
 ## Abstract
 
-This thesis is based on the problem of distributed K-means in a Byzantine framework where we have $P$ machines which compute K centroids at each iteration. Among these P machines, a $\epsilon$-fraction ($\epsilon$ < 1/2) of them is Byzantine, and this Byzantine fraction has a tendency to compute K erroneous centroids, which, in most cases, will distort the distributed $K$-means algorithm. Therefore, to correct such Byzantine errors, we use a centroids aggregation rule; the FABA rule, which is an aggregation rule designed to aggregate the calculated gradient vectors in a distributed Byzantine environment. This thesis only conducts an experimental study on $K$-means coupled with FABA. Without providing any formal proof, we came to notice that the mixture of these two algorithms corrects the byzantine errors well up to a rate of 50% and allows us to obtain clusters quite close to the originals.
+This thesis is based on the problem of distributed K-means in a Byzantine framework where we have $P$ machines which compute K centroids at each iteration. Among these P machines, a $\epsilon$-fraction ($\epsilon$ < 1/2) of them is Byzantine, and this Byzantine fraction has a tendency to compute K erroneous centroids, which, in most cases, will distort the distributed $K$-means algorithm. Therefore, to correct such Byzantine errors, we used a centroids aggregation rule; the FABA rule, which is an aggregation rule designed to aggregate the calculated gradient vectors in a distributed Byzantine environment. This thesis only conducts an experimental study on $K$-means coupled with FABA. Without providing any formal proof, we came to notice that the mixture of these two algorithms corrects the byzantine errors well up to a rate of 50% and allows us to obtain clusters quite close to the originals.
 
 Keywords : `K-means`, `Distributed system`, `Byzantine`, `Gradient descent`.
 
