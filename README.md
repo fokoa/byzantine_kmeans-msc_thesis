@@ -1,5 +1,5 @@
 
-# Fault resilient K-means byzantines
+# K-means resilient to byzantine Faults
 
 This is my Masters thesis and project done in the Department of Computer Science in the University of Yaoundé I. Supervised by [MELATAGIA YONTA Paulin](https://www.linkedin.com/in/paulin-melatagia-a27840115).
 
