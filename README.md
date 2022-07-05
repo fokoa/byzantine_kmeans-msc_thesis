@@ -26,15 +26,4 @@ or
 * `5`: stand for total number of byzantine workers (it must be at most half of the total number of machines)
 
 
-## Bibtex
 
-if you use this thesis, please cite:
-```
-@mastersthesis{fogang2021msc,
-	author = {K. J. Fogang Fokoa},
-	advisor = {Paulin Melatagia},
-	title = {Fault resilient K-means byzantines},
-	address = {Université de Yaoundé I, Yaoundé, Cameroun},
-	year = {2021}
-}
-```
